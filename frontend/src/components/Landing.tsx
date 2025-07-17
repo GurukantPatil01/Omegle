@@ -39,7 +39,7 @@ export const Landing = () => {
                     <div className="flex-1 bg-white/95 backdrop-blur-sm rounded-3xl shadow-2xl border border-white/20 p-10 max-w-md transform hover:scale-[1.02] transition-all duration-300">
                         <div className="text-center mb-8">
                             <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl mb-4 shadow-lg">
-                                <span className="text-2xl font-bold text-white">O</span>
+                                <span className="text-2xl font-bold text-white"></span>
                             </div>
                             <h1 className="text-5xl font-bold bg-gradient-to-r from-slate-800 to-slate-600 bg-clip-text text-transparent mb-3">Omee</h1>
                             <p className="text-slate-500 text-lg font-medium">Connect with strangers instantly</p>
